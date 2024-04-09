@@ -60,7 +60,7 @@ def index():
             logging.info(e)
             return 'something is wrong' 
                 
-        return render_template('sucess.html')
+        return 'data is completed in your folder'
     
     else:
        return render_template('index.html')       
