@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .content {
+            text-align: center;
+        }
+
+        .form-wrapper {
+            background-color: #ffffff; /* Set your desired background color */
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        #search {
+            width: 300px; /* Set your desired width */
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        #submit {
+            padding: 10px 20px;
+            background-color: #4CAF50; /* Set your desired button color */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        #submit:hover {
+            background-color: #45a049; /* Set your desired hover color */
+        }
+    </style>
+</head>
+<body>
+
+<div class="content">
+    <form class="form-wrapper" action="/review "  method="post">
+        <input type="text" id="search" placeholder="Search for Image to Download.." name="content" required>
+        <input type="submit" value="Get Data " id="submit">
+    </form>
+</div>
+
+</body>
+</html>

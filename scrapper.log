@@ -1,0 +1,183 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:42:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:43:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:44:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:44:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:44:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:45:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:45:27] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:45:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:46:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:46:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:47:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:47:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:47:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:49:41] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:49:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:50:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:50:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:51:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:52:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:54:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:55:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:57:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:58:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:58:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:58:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:59:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 10:59:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:00:21] "GET / HTTP/1.1" 200 -
+INFO:root:No connection adapters were found for 'from flask import Flask, render_template, request import requests import logging import os from bs4 import BeautifulSoup import json from datetime import datetime  logging.basicConfig(filename="scrapper.log", level=logging.INFO) app = Flask(__name__)   @app.route("/", methods=["GET"]) def home():     return render_template("index.html")   @app.route("/review", methods=["POST", "GET"]) def index():     if request.method == \'POST\':         try:             url = request.form["content"]              headers = {                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}              response = requests.get(url, headers=headers)             soup = BeautifulSoup(response.text, \'html.parser\')              reviews = soup.find_all("div", {"data-hook": "review"})              # Create a list to store data             data = []              for review in reviews:                 reviewer = review.find(                     "span", class_="a-profile-name").text.strip()                 rating = review.find("i", class_="review-rating").text.strip()                 date = review.find(                     "span", class_="a-size-base a-color-secondary review-date").text.strip()                 title = review.find(                     "a", class_="a-size-base a-link-normal review-title a-color-base review-title-content a-text-bold").text.strip()                 body = review.find(                     "span", class_="a-size-base review-text review-text-content").text.strip()                  # Append data to the list as a dictionary                 data.append({                     "Reviewer": reviewer,                     "Rating": rating,                     "Date": date,                     "Title": title,                     "Body": body                 })              # Create a new JSON file with timestamp in its name             timestamp = datetime.now().strftime("%Y%m%d%H%M%S")             json_file = f\'amazon_reviews_{timestamp}.json\'             with open(json_file, \'w\', encoding=\'utf-8\') as f:                 json.dump(data, f, ensure_ascii=False, indent=4)          except Exception as e:             logging.info(e)             return \'Something went wrong\'          return "Completed"      else:         return render_template(\'index.html\')   if __name__ == "__main__":     app.run(debug=True)'
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:00:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:00:48] "GET / HTTP/1.1" 200 -
+INFO:root:No connection adapters were found for 'from flask import Flask, render_template, request import requests import logging import os from bs4 import BeautifulSoup import json from datetime import datetime  logging.basicConfig(filename="scrapper.log", level=logging.INFO) app = Flask(__name__)   @app.route("/", methods=["GET"]) def home():     return render_template("index.html")   @app.route("/review", methods=["POST", "GET"]) def index():     if request.method == \'POST\':         try:             url = request.form["content"]              headers = {                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}              response = requests.get(url, headers=headers)             soup = BeautifulSoup(response.text, \'html.parser\')              reviews = soup.find_all("div", {"data-hook": "review"})              # Create a list to store data             data = []              for review in reviews:                 reviewer = review.find(                     "span", class_="a-profile-name").text.strip()                 rating = review.find("i", class_="review-rating").text.strip()                 date = review.find(                     "span", class_="a-size-base a-color-secondary review-date").text.strip()                 title = review.find(                     "a", class_="a-size-base a-link-normal review-title a-color-base review-title-content a-text-bold").text.strip()                 body = review.find(                     "span", class_="a-size-base review-text review-text-content").text.strip()                  # Append data to the list as a dictionary                 data.append({                     "Reviewer": reviewer,                     "Rating": rating,                     "Date": date,                     "Title": title,                     "Body": body                 })              # Create a new JSON file with timestamp in its name             timestamp = datetime.now().strftime("%Y%m%d%H%M%S")             json_file = f\'amazon_reviews_{timestamp}.json\'             with open(json_file, \'w\', encoding=\'utf-8\') as f:                 json.dump(data, f, ensure_ascii=False, indent=4)          except Exception as e:             logging.info(e)             return \'Something went wrong\'          return "Completed"      else:         return render_template(\'index.html\')   if __name__ == "__main__":     app.run(debug=True)'
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:00:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:07] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:44] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:50] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:01:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:03:53] "GET / HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:03:56] "POST /review HTTP/1.1" 200 -
+INFO:root:Invalid URL 'amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews': No scheme supplied. Perhaps you meant https://amazon.in/Apple-iPhone-15-128-GB/product-reviews/B0CHX1W1XY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews?
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:04:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:04:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:04:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:05:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:05:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:28] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:28] "GET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:28] "GET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:29] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:08:29] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-973-947
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:09:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 11:09:12] "POST /review HTTP/1.1" 200 -
